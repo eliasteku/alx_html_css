@@ -11,6 +11,12 @@ main {
     flex: auto;
 }
 
+.logo {
+  font-size: 2em;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
 article {
     flex: 2;
     overflow-y: auto;
